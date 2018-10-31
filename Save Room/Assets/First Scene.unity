@@ -217,6 +217,10 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: d9569ff656ce1334399a87a2290b9d0b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cde0f1882fba3d24ab0ec0211ea0a26e, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d9569ff656ce1334399a87a2290b9d0b, type: 3}
   m_IsPrefabParent: 0
@@ -263,6 +267,10 @@ Prefab:
       propertyPath: m_Name
       value: Barrell (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: d9569ff656ce1334399a87a2290b9d0b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cde0f1882fba3d24ab0ec0211ea0a26e, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d9569ff656ce1334399a87a2290b9d0b, type: 3}
   m_IsPrefabParent: 0

@@ -1,17 +1,16 @@
 fileFormatVersion: 2
-guid: d9569ff656ce1334399a87a2290b9d0b
-timeCreated: 1539985078
+guid: 857c744384b3b064ab5dfd6605800671
+timeCreated: 1539985753
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: 02 - Default
-    2100002: 01 - Default
+    2100000: 'Material #25'
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Barrel
+    4300000: boulder_LP
   externalObjects: {}
   materials:
     importMaterials: 1
